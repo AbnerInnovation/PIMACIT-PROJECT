@@ -213,7 +213,7 @@
                         android:textColor="#FFF"
                         android:fontFamily="sans-serif-light"
                         android:textSize="18dp"
-                        android:onClick="llamaMensajeWS"
+                        android:onClick="AgendarCita"
                         android:paddingRight="15dp"
                         android:paddingLeft="10dp"
                         android:layout_marginRight="25dp"

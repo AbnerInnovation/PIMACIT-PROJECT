@@ -228,6 +228,12 @@ public class Registrarse extends AppCompatActivity {
         }
     }
 
+    public void regresarLogin(View v)
+    {
+        //Intent i= new Intent(this, LoginActivity.class);
+        //startActivity(i);
+       // finish();
+    }
 
 
 }

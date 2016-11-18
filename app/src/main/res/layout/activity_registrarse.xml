@@ -77,7 +77,7 @@
                 android:layout_height="wrap_content"
                 android:hint="Apellido"
 
-                android:drawableLeft="@drawable/ic_placeholder"
+                android:drawableLeft="@drawable/ic_usuario"
                 android:drawablePadding="1dp"
                 android:maxLines="1"
                 android:singleLine="true" />
@@ -130,7 +130,7 @@
                     android:imeActionLabel=""
                     android:imeOptions="actionUnspecified"
                     android:inputType="textPassword"
-                    android:drawableLeft="@drawable/ic_placeholder"
+                    android:drawableLeft="@drawable/ic_password"
                     android:drawablePadding="1dp"
                     android:maxLines="1"
                     android:singleLine="true" />

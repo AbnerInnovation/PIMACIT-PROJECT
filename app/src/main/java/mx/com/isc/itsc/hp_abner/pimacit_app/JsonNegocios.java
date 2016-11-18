@@ -19,6 +19,7 @@ public class JsonNegocios {
 
     }
 
+
     public List<Negocios> getNegociosResult()
     {
         return this.ResultNegocios;
